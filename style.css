@@ -1,14 +1,13 @@
 /* FONTS */
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Rubik+Beastly&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Comforter&family=Mochiy+Pop+P+One&family=Nova+Square&family=Rubik+Beastly&family=Rubik+Mono+One&display=swap');
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary:  'Rubik Beastly', cursive;
-  --font-secondary: 'Mochiy Pop P One', sans-serif;
-  --font-code:  'Mochiy Pop P One', sans-serif;
-  --bg-color: #000000;
-  --font-color: #ffffff;
+  --font-primary:  'Comforter', cursive;
+  --font-secondary: 'Comforter', cursive;
+  --font-code:  'Comforter', cursive;
+  --bg-color: #FFFDD0;
+  --font-color: #880808;
   --btn-bg-color: #960202;
   --accent-color: #ff0000d5;
   --header-shadow: rgb(25, 12, 143) 0px 0px 5px;
