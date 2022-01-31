@@ -43,7 +43,7 @@ window.addEventListener('DOMContentLoaded', () => {
       onboardButton.disabled = true;
       onboarding.stopOnboarding();
     } else {
-      onboardButton.innerText = 'Connect MetaMask!';
+      onboardButton.innerText = 'Connect MetaMask';
       onboardButton.onclick = async () => {
         await window.ethereum.request({
           method: 'eth_requestAccounts',
